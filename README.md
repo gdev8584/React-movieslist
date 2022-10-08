@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Creating a Movie List Application in React
+
+### weblink:-- 
+
+## Task for Project:
+Task 1:-
+• Render a list of movies with their images ,titles, distributors, Box office collections.
+• You can use static data or use some api to get a list of movie names.
+
+Task 2:-
+• Convert your individual movie block into card like format as given below.
+• Use can use bootstrap to do so.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
